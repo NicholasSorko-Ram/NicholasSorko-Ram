@@ -1,4 +1,4 @@
-# Hi, I'm Nicholas Ram 👋  
+# Hi, I'm Nicholas Sorko-Ram 👋  
 **Business Architect & Product Strategy Leader**
 
 I design modernization strategies and scalable architectures that transform complex healthcare, logistics, and public sector systems. With 10+ years of experience, I align business, policy, and technology to deliver measurable outcomes—driving multimillion-dollar savings, improving operational efficiency, and enabling sustainable enterprise modernization.
